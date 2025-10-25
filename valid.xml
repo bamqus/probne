@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PublicTransportInCracow/>
+    <Bus>
+        <line/>
+            <id>129<id/>
+            <name>Linia 129<name/>
+            <destination>Dworzec Główny Zachód<destination/>
+            <firstStation/>Czyżyny Dworzec<firstStation/>
+        <line/>
+        <line/>
+            <id>317<id/>
+            <name>Linia 317<name/>
+            <destination>Dworzec Główny Wschód<destination/>
+            <firstStation/>Zielonki Marszowiec Pętla<firstStation/>
+        <line/>
+        <line/>
+            <id>152<id/>
+            <name>Linia 152<name/>
+            <destination>Cmentarz Olszanica<destination/>
+            <firstStation/>Czyżyny Dworzec<firstStation/>
+        <line/>
+        <line/>
+            <id>501<id/>
+            <name>Linia 501<name/>
+            <destination>Zalew Nowohudzki<destination/>
+            <firstStation/>Cgełmońskiego Petla<firstStation/>
+        <line/>
+        <line/>
+            <id>405<id/>
+            <name>Linia 405<name/>
+            <destination>Cmentarz Prądnik Czerwony<destination/>
+            <firstStation/>Dworzez Główny Zachód<firstStation/>
+        <line/>
+        <line>
+            <id>511<id/>
+            <name>Linia 511<name/>
+            <destination>Chełonskiego Pętla<destination/>
+            <firstStation/>Osiedle Na Stoku<firstStation/>
+        <line/>
+    <Bus/>
+    
