@@ -1,0 +1,37 @@
+[
+    {
+        "numer_lini" : 144,
+        "typ" : "autobus",
+        "trasa" : "prądnik biały - rżaka",
+        "jest_zazwyczaj_na_czas" : false,
+        "dzienny" : true
+    },
+   {
+        "numer_lini" : 18,
+        "typ" : "tramwaj",
+        "trasa" : "górka narodowa p+r - czerwone maki p+r",
+        "jest_zazwyczaj_na_czas" : true,
+        "dzienny" : true
+    },
+    {
+        "numer_lini" : 50,
+        "typ" : "tramwaj",
+        "trasa" : "górka narodowa p+r - kurdwanów p+r",
+        "jest_zazwyczaj_na_czas" : true,
+        "dzienny" : true
+    },
+    {
+        "numer_lini" : 75,
+        "typ" : "tramwaj",
+        "trasa" : "górka narodowa p+r - bardosa",
+        "jest_zazwyczaj_na_czas" : true,
+        "dzienny" : true
+    },
+    {
+        "numer_lini" : 69,
+        "typ" : "tramwaj",
+        "trasa" : "górka narodowa p+r - nowy bieżanów p+r",
+        "jest_zazwyczaj_na_czas" : true,
+        "dzienny" : false
+    }
+]
